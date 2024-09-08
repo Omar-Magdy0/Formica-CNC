@@ -1,6 +1,6 @@
 # Formica-CNC
 ![Formica_flavorB_iso0](images/Formica_flavorB_iso0.png)
-![work](images/work.png)
+![work](images/work.jpg)
 ### WHAT is this? 
 A CNC (Computer Numerical Control) refers to computer control machinery where a machine and tools are controlled using programmed instructions, making the machining ( mill, lathe, drilling, etc..) automated
 And this is a CNC mechanical design project
