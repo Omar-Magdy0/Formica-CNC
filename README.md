@@ -30,8 +30,8 @@ Plastics, FR4, woods (mostly soft materials)
 3) Artistic wood engraving 
 
 ### SubAssembly Overview PDF
-[FORMICA_A_PDF](FlavorA/Main Machine assembly formica flavorA.pdf)
-[FORMICA_A_PDF](FlavorB/Main Machine assembly formica flavorB.pdf)
+![FORMICA_A_PDF](FlavorA/Main Machine assembly formica flavorA.pdf)
+![FORMICA_A_PDF](FlavorB/Main Machine assembly formica flavorB.pdf)
 
 ### How to make your own 
 1) Visit the Onshape repo for your desired flavor and determine the needed parts
