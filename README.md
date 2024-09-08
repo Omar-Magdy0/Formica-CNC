@@ -3,7 +3,7 @@
 ![work](images/work.jpg)
 ### WHAT is this? 
 A CNC (Computer Numerical Control) refers to computer control machinery where a machine and tools are controlled using programmed instructions, making the machining ( mill, lathe, drilling, etc..) automated
-And this is a CNC mechanical design project
+
 
 # The idea behind the name 
 Formica is inspired by the Formica ants + the name sounds great
