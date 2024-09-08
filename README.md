@@ -24,9 +24,9 @@ Provide a low-cost and simple desktop CNC solution for Hobbyists
 Plastics, FR4, woods (mostly soft materials)
 
 ### Use Cases
-# 1) PCB milling/drilling
-# 2) Label engraving
-# 3) Artistic wood engraving 
+1) PCB milling/drilling
+2) Label engraving
+3) Artistic wood engraving 
 
 
 ### How to make your own 
