@@ -1,7 +1,8 @@
 # Formica-CNC
-
+![Formica_flavorB_iso0](images/Formica_flavorB_iso0.png)
 ### WHAT is this? 
 A CNC (Computer Numerical Control) refers to computer control machinery where a machine and tools are controlled using programmed instructions, making the machining ( mill, lathe, drilling, etc..) automated
+And this is a CNC mechanical design project
 
 # The idea behind the name 
 Formica is inspired by the Formica ants + the name sounds great
@@ -28,6 +29,9 @@ Plastics, FR4, woods (mostly soft materials)
 2) Label engraving
 3) Artistic wood engraving 
 
+### SubAssembly Overview PDF
+[FORMICA_A_PDF](FlavorA/Main Machine assembly formica flavorA.pdf)
+[FORMICA_A_PDF](FlavorB/Main Machine assembly formica flavorB.pdf)
 
 ### How to make your own 
 1) Visit the Onshape repo for your desired flavor and determine the needed parts
@@ -36,9 +40,11 @@ Plastics, FR4, woods (mostly soft materials)
 4) You will also need to determine and buy your desired control board/Microcontroller to drive the machine (MKS-TinyBee) or any esp32-based board is recommended, and a spindle driver (a-relay or MOSFET-based switch with enough rating is sufficient), and wires
 5) Export-3d printable parts in step/STL format and 3d print them 
    to export parts: select by left-clicking --> right-click to open menu --> click export
-   ![how_to_img0][/images/how_to_img0.png]
+   ![how_to_img0](images/how_to_img0.png)
 6) Assemble everything
 7) For the firmware you can use Fluidnc(for esp32), Grbl/Marlin or any other alternative 
 8) When you assemble Everything and you are all set up to actually build stuff you are going to need a CAM software and a G-code sender..
 
+### UPCOMING 
+ A high quality controller-board that is going to serve hobbyists 3d printers/CNC's
 
